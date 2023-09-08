@@ -63,7 +63,7 @@ body {
     @include text;
 
     @media(max-width: 768px){
-        @include text(15px);
+        @include text(14px);
     }
 }
 
